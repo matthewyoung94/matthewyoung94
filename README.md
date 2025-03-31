@@ -1,4 +1,3 @@
-**Full Stack Developer**
 Passionate about building cool projects, as well as learning new tech and improving my abilities.  
 
 💻 **Languages:** JavaScript, Python, Java, Kotlin, SQL
