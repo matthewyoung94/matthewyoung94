@@ -1,8 +1,6 @@
 **Full Stack Developer**
+Passionate about building cool projects, as well as learning new tech and improving my abilities.  
 
-🔹 Passionate about building cool projects, as well as learning new tech and improving my abilities.  
-
-📌 **Tech Stack:**  
 💻 **Languages:** JavaScript, Python, Java, Kotlin
 
 🛠 **Tools & Frameworks:** React, Node.js, Android Studio
